@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Giovani-Campos
-- 👀 I’m interested in computer science in general
-- 🌱 I’m currently learning app development
-- 🧠 Knowledge on Kotlin, Swift and React Native (learning)
+- 👀 I’m interested in computer science
 - 📫 How to reach me - giovani.cauduro@gmail.com
 
 <!---
